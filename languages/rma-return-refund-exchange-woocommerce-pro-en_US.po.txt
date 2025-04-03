@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RMA Return Refund Exchange for WooCommerce Pro 1.0.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en_US\n"
+
+msgid "Your RMA Request Has Been Received"
+msgstr "Your RMA Request Has Been Received"
+
+msgid "We have received your request. Our team will review it shortly."
+msgstr "We have received your request. Our team will review it shortly."
+
+msgid "Request ID:"
+msgstr "Request ID:"
+
+msgid "Order ID:"
+msgstr "Order ID:"
+
+msgid "Your RMA Request Has Been Updated"
+msgstr "Your RMA Request Has Been Updated"
+
+msgid "Your RMA request status has been updated. Please check your request details."
+msgstr "Your RMA request status has been updated. Please check your request details."
+
+msgid "New Status:"
+msgstr "New Status:"
+
+msgid "Your RMA Request Has Been Completed"
+msgstr "Your RMA Request Has Been Completed"
+
+msgid "Your request has been successfully processed and completed."
+msgstr "Your request has been successfully processed and completed."

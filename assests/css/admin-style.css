@@ -1,0 +1,25 @@
+.wrap h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.wp-list-table th {
+    background: #007cba;
+    color: #fff;
+    text-align: left;
+}
+
+.wp-list-table td, .wp-list-table th {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.button-danger {
+    background-color: #dc3232;
+    color: white;
+    border: none;
+}
+
+.button-danger:hover {
+    background-color: #a40000;
+}
